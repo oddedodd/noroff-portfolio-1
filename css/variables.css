@@ -1,0 +1,11 @@
+/* --------------------------------- css variables --------------------------------- */
+:root {
+  --base-background: #f7f7f7;
+  --base-dark-blue: #1b203d;
+  --base-red: #db2b39;
+  --accent-color: #6961ac;
+
+  --header-font: "Poppins", sans-serif;
+  --paragraph-font: "Poppins", sans-serif;
+  --special-font: "Rock Salt", cursive;
+}
